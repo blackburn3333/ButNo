@@ -1,0 +1,85 @@
+@charset "utf-8";
+/*!
+ * ButNo v1.0.0 
+ * Copyright 2017 Jayendra Matarage.
+ * Licensed under MIT (https://github.com/blackburn3333/blackburn3333.github.io/blob/master/LICENSE)*/
+
+.basic_btn{
+	-webkit-transition: 1.0s;
+	width:100%;
+	padding:15px;
+	border:none;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+
+.basic_btn:hover{
+	background-color:#999;
+}
+.border_round_btn{
+	border-radius:30px;
+}
+
+.border_round_btn_anm:hover{
+	border-radius:30px;
+}
+.shadow_btn{
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.shadow_btn_anm:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.border_btn{
+	border:2px solid #666;
+}
+.border_btn_anm:hover{
+	
+	border:2px solid #666;
+}
+
+.blue_btn{
+	color:#FFF;
+	-webkit-transition: 1.0s;
+	width:100%;
+	padding:15px;
+	border:none;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	background-color:#33ccff;
+	
+}
+.blue_btn:hover
+{
+	background-color:#4da2fc;
+}
+.green_btn
+{
+	color:#FFF;
+	-webkit-transition: 1.0s;
+	width:100%;
+	padding:15px;
+	border:none;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	background-color:#45e87b;
+}
+.green_btn:hover
+{
+	background-color:#37f9d7;
+}
+
+.red_btn
+{
+	color:#FFF;
+	-webkit-transition: 1.0s;
+	width:100%;
+	padding:15px;
+	border:none;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	background-color:#ff4580;
+}
+.red_btn:hover
+{
+	background-color:#fde13f;
+}
